@@ -1,0 +1,26 @@
+emp_id,name,gender,department,designation,salary,experience,city,joining_date
+101,Amit,Male,HR,Manager,65000,8,Bangalore,15-03-2020
+102,Priya,Female,IT,Developer,75000,6,Mysore,20-07-2021
+103,Rahul,Male,Finance,Accountant,55000,5,Bangalore,18-01-2022
+104,Sneha,Female,Sales,Sales Executive,48000,4,Chennai,10-05-2023
+105,Kiran,Male,IT,Developer,70000,7,Hyderabad,25-11-2019
+106,Divya,Female,HR,HR Executive,45000,3,Bangalore,15-02-2024
+107,Arjun,Male,Marketing,Executive,52000,6,Delhi,30-06-2020
+108,Pooja,Female,IT,Tester,60000,5,Bangalore,12-08-2023
+109,Manoj,Male,Finance,Manager,80000,10,Mumbai,05-09-2018
+110,Anjali,Female,Sales,Manager,68000,9,Bangalore,18-04-2019
+111,Ravi,Male,IT,Developer,72000,8,Pune,11-11-2022
+112,Neha,Female,Marketing,Executive,50000,4,Mysore,01-09-2023
+113,Suresh,Male,HR,Recruiter,43000,2,Bangalore,20-03-2024
+114,Meena,Female,Finance,Analyst,62000,6,Chennai,15-10-2021
+115,Ajay,Male,IT,Developer,78000,9,Hyderabad,19-07-2018
+116,Deepa,Female,Sales,Executive,47000,3,Bangalore,10-01-2024
+117,Vijay,Male,Marketing,Manager,85000,11,Delhi,12-05-2017
+118,Kavya,Female,IT,Tester,59000,5,Mysore,25-08-2022
+119,Naveen,Male,Finance,Accountant,54000,4,Bangalore,11-11-2023
+120,Shreya,Female,HR,Executive,46000,3,Pune,06-05-2024
+121,Harish,Male,Sales,Executive,51000,5,Hyderabad,20-04-2022
+122,Asha,Female,Marketing,Executive,53000,6,Bangalore,15-09-2021
+123,Rakesh,Male,IT,Developer,82000,12,Chennai,10-12-2016
+124,Nisha,Female,Finance,Manager,90000,13,Mumbai,05-06-2015
+125,Vinay,Male,HR,Manager,67000,8,Bangalore,18-02-2020
